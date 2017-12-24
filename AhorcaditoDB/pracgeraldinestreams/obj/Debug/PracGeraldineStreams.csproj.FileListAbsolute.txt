@@ -1,0 +1,128 @@
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Desktop\New folder\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+C:\Users\gerald\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\gerald\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\gerald\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+C:\Users\latitude\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+C:\Users\gerald\Dropbox\cosas\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache
+C:\Users\latitude\Desktop\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Desktop\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Desktop\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+C:\Users\latitude\Desktop\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+C:\Users\latitude\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+C:\Users\virtualGJ\Dropbox\CondesitoPrecioso\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\DBAhorcadito.mdf
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\DBAhorcadito_log.ldf
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FrmAdminPalagras.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FrmAdminUsuarios.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache
+C:\Users\virtualGJ\Desktop\Ahorcadito\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FrmSeleccionarUsuarioJuega.resources
+C:\Users\virtualGJ\Dropbox\cosas\AhorcaditoDB\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+C:\Users\virtualGJ\Dropbox\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+C:\Users\virtualGJ\Dropbox\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe.config
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.exe
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.pdb
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\bin\Debug\DBAhorcadito.mdf
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\bin\Debug\DBAhorcadito_log.ldf
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.exe
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\bin\Debug\PracGeraldineStreams.pdb
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csprojResolveAssemblyReference.cache
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListaPuntajes.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormListarPalabras.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormPlay.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormUsuario.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FormGerJugar.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FrmAdminPalagras.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FrmAdminUsuarios.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.FrmSeleccionarUsuarioJuega.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.JugarPalabras.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.Properties.Resources.resources
+E:\cosas\AhorcaditoDB\PracGeraldineStreams\obj\Debug\PracGeraldineStreams.csproj.GenerateResource.Cache

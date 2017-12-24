@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{049BCB0D-78F8-4FA8-AB1B-C88A1E639198}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PracGeraldineStreams</RootNamespace>
+    <AssemblyName>PracGeraldineStreams</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArchivosPalabras.cs" />
+    <Compile Include="ArchivoUsuarios.cs" />
+    <Compile Include="DBAhorcaditoDataSetJugador.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBAhorcaditoDataSetJugador.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBAhorcaditoDataSetPalabras.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBAhorcaditoDataSetPalabras.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBAhorcaditoDataSetUsuarios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBAhorcaditoDataSetUsuarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormListaPuntajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListaPuntajes.Designer.cs">
+      <DependentUpon>FormListaPuntajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormListarPalabras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarPalabras.Designer.cs">
+      <DependentUpon>FormListarPalabras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPlay.Designer.cs">
+      <DependentUpon>FormPlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsuarios.Designer.cs">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGerJugar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGerJugar.Designer.cs">
+      <DependentUpon>FormGerJugar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPalagras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPalagras.Designer.cs">
+      <DependentUpon>FrmAdminPalagras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminUsuarios.Designer.cs">
+      <DependentUpon>FrmAdminUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSeleccionarUsuarioJuega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeleccionarUsuarioJuega.Designer.cs">
+      <DependentUpon>FrmSeleccionarUsuarioJuega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JugarPreguntas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JugarPreguntas.Designer.cs">
+      <DependentUpon>JugarPreguntas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormListaPuntajes.resx">
+      <DependentUpon>FormListaPuntajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListarPalabras.resx">
+      <DependentUpon>FormListarPalabras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlay.resx">
+      <DependentUpon>FormPlay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsuarios.resx">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGerJugar.resx">
+      <DependentUpon>FormGerJugar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPalagras.resx">
+      <DependentUpon>FrmAdminPalagras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminUsuarios.resx">
+      <DependentUpon>FrmAdminUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSeleccionarUsuarioJuega.resx">
+      <DependentUpon>FrmSeleccionarUsuarioJuega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JugarPreguntas.resx">
+      <DependentUpon>JugarPreguntas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DBAhorcaditoDataSetJugador.xsc">
+      <DependentUpon>DBAhorcaditoDataSetJugador.xsd</DependentUpon>
+    </None>
+    <None Include="DBAhorcaditoDataSetJugador.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBAhorcaditoDataSetJugador.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBAhorcaditoDataSetJugador.xss">
+      <DependentUpon>DBAhorcaditoDataSetJugador.xsd</DependentUpon>
+    </None>
+    <None Include="DBAhorcaditoDataSetPalabras.xsc">
+      <DependentUpon>DBAhorcaditoDataSetPalabras.xsd</DependentUpon>
+    </None>
+    <None Include="DBAhorcaditoDataSetPalabras.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBAhorcaditoDataSetPalabras.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBAhorcaditoDataSetPalabras.xss">
+      <DependentUpon>DBAhorcaditoDataSetPalabras.xsd</DependentUpon>
+    </None>
+    <None Include="DBAhorcaditoDataSetUsuarios.xsc">
+      <DependentUpon>DBAhorcaditoDataSetUsuarios.xsd</DependentUpon>
+    </None>
+    <None Include="DBAhorcaditoDataSetUsuarios.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBAhorcaditoDataSetUsuarios.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBAhorcaditoDataSetUsuarios.xss">
+      <DependentUpon>DBAhorcaditoDataSetUsuarios.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DBAhorcadito.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DBAhorcadito_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>DBAhorcadito.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
