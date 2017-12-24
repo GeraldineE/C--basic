@@ -1,0 +1,40 @@
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe.config
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\bin\Debug\Aerolinea.pdb
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Properties.Resources.resources
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csproj.GenerateResource.Cache
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.exe
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.pdb
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csprojResolveAssemblyReference.cache
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Reservas.resources
+c:\users\gerald\documents\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.ReservaAvionn.resources
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe.config
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.exe
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.pdb
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\bin\Debug\Aerolinea.pdb
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csprojResolveAssemblyReference.cache
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Reservas.resources
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Properties.Resources.resources
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.ReservaAvionn.resources
+C:\Users\s112e6.B14_112_06\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csproj.GenerateResource.Cache
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe.config
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.exe
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.pdb
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\bin\Debug\Aerolinea.pdb
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csprojResolveAssemblyReference.cache
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Reservas.resources
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Properties.Resources.resources
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.ReservaAvionn.resources
+C:\Users\gerald\Desktop\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csproj.GenerateResource.Cache
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe.config
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\obj\Debug\Aerolinea.exe
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\obj\Debug\Aerolinea.pdb
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\bin\Debug\Aerolinea.pdb
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csprojResolveAssemblyReference.cache
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Reservas.resources
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\obj\Debug\Aerolinea.Properties.Resources.resources
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\obj\Debug\Aerolinea.ReservaAvionn.resources
+C:\Users\gerald\Dropbox\ActualizacionGeraldAerolinea\Actualización\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csproj.GenerateResource.Cache
