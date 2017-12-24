@@ -180,12 +180,12 @@ namespace PracGeraldineStreams
 
         private void darPuntaje(string nombreJugador, int puntosPorGanar)
         {
-            var connString = ConfigurationManager.ConnectionStrings["DBAhorcaditoConnectionString"].ConnectionString;//se conecta a la bases??
-            System.Data.SqlClient.SqlConnection conn = new System.Data.SqlClient.SqlConnection(connString);//que hace cada parte de linea de codigo?
+            var connString = ConfigurationManager.ConnectionStrings["DBAhorcaditoConnectionString"].ConnectionString;
+            System.Data.SqlClient.SqlConnection conn = new System.Data.SqlClient.SqlConnection(connString);
             conn.Open();//abre la conexión
             string querystr = "UPDATE Usuarios SET puntaje=puntaje + " + puntosPorGanar.ToString() + " WHERE nombre='" + nombreJugador + "'";
-            System.Data.SqlClient.SqlCommand query = new System.Data.SqlClient.SqlCommand(querystr, conn);//que es qurystr?
-            query.ExecuteNonQuery();// que hace la linea de codigo?
+            System.Data.SqlClient.SqlCommand query = new System.Data.SqlClient.SqlCommand(querystr, conn);
+            query.ExecuteNonQuery();
             conn.Close();//cierra la conexión
         }
     }
