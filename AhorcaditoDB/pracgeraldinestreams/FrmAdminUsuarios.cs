@@ -27,7 +27,7 @@ namespace PracGeraldineStreams
 
         private void FrmAdminUsuarios_Load(object sender, EventArgs e)
         {
-            // TODO: esta línea de código carga datos en la tabla 'dBAhorcaditoDataSetUsuarios.Usuarios' Puede moverla o quitarla según sea necesario.
+            // TODO: esta línea de código carga datos en la tabla 'dBAhorcaditoDataSetUsuarios.Usuarios' 
             this.usuariosTableAdapter.Fill(this.dBAhorcaditoDataSetUsuarios.Usuarios);
 
         }
